@@ -7,5 +7,5 @@ Android OS10からアプリ上で、設定パネルを開き、各種機能のON
 [link2](https://developer.android.com/about/versions/10/features#settings-panels)
 [link3](https://developer.android.com/reference/android/provider/Settings.Panel)
 
-# capture
+# capture For Pixcel 5 (OS: 11)
 <img src="screenshot/capture.gif" width=320 />
