@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">SettingsPanelSample</string>
+    <string name="button_internet">ACTION_INTERNET_CONNECTIVITY</string>
 </resources>
