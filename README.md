@@ -8,4 +8,4 @@ Android OS10からアプリ上で、設定パネルを開き、各種機能のON
 [link3](https://developer.android.com/reference/android/provider/Settings.Panel)
 
 # capture
-<img src="screenshot/capture/mp4" width=320 />
+<img src="screenshot/capture.mp4" width=320 />
