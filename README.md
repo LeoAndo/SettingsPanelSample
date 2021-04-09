@@ -12,5 +12,5 @@ Android 10から、[WifiManager#setWifiEnabled](https://developer.android.com/re
 Wi-FI設定が禁止されたのでその代替処理として、設定パネルを使います。
 [link4](https://developer.android.com/about/versions/10/privacy/changes#enable-disable-wifi)
 
-# capture For Pixcel 5 (OS: 11)
+# capture For Pixcel 5 (OS 11)
 <img src="screenshot/capture.gif" width=320 />
